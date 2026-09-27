@@ -1,7 +1,7 @@
 <h1 align="center">👋 Judobabu Harikrishnan</h1> <h3 align="center"> IT Architect | Cloud Architect | AI Infrastructure </h3> <p align="center"> Enterprise Datacenters • Linux / Unix • VMware • Kubernetes • Docker • Cloud • Storage • Virtualization </p> <p align="center"> <a href="https://www.linkedin.com/in/judobabu-harikrishnan-5855373b/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <img src="https://img.shields.io/badge/Experience-20%2B%20Years-1F6FEB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-AI%20Infrastructure-8E44AD?style=for-the-badge" /> </p>
 🏗️ About Me
 
-I am an IT / Solutions Architect with 20+ years of experience designing, deploying, scaling and operating enterprise infrastructure and mission-critical datacenter environments.
+I am an IT Architect with 20+ years of experience designing, deploying, scaling and operating enterprise infrastructure and mission-critical datacenter environments.
 
 My experience spans:
 

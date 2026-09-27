@@ -1,330 +1,213 @@
-Judobabu Harikrishnan
-IT Architect | Cloud Architect | AI Infrastructure
+<div align="center"> <h1><strong>Judobabu Harikrishnan</strong></h1> <h2><strong>IT Architect | Cloud Architect | AI Infrastructure</strong></h2> <p> <strong>Enterprise Datacenters</strong> &nbsp; | &nbsp; <strong>Linux / Unix</strong> &nbsp; | &nbsp; <strong>VMware / ESX</strong> &nbsp; | &nbsp; <strong>Kubernetes</strong> &nbsp; | &nbsp; <strong>Docker</strong> &nbsp; | &nbsp; <strong>Cloud</strong> &nbsp; | &nbsp; <strong>Virtualization</strong> &nbsp; | &nbsp; <strong>Storage</strong> &nbsp; | &nbsp; <strong>Infrastructure Scaling</strong> </p> <p> <a href="https://www.linkedin.com/in/judobabu-harikrishnan-5855373b/"> <strong>LinkedIn Profile</strong> </a> </p> </div>
+<h2><u>About Me</u></h2> <p> I am an <strong>IT Architect with 20+ years of experience</strong> in enterprise IT infrastructure, large-scale datacenter operations, platform engineering, virtualization, cloud technologies, and <strong>AI infrastructure</strong>. </p> <p> My experience includes <strong>designing, deploying, scaling, and managing mission-critical infrastructure environments</strong> across geographically distributed datacenters supporting enterprise and high-availability workloads. </p> <p> My technical background spans: </p>
 
-Enterprise Datacenters | Linux / Unix | VMware / ESX | Kubernetes | Docker | Cloud | Virtualization | Storage | Infrastructure Scaling
+<strong>Enterprise Infrastructure Architecture</strong>
 
-About Me
+<strong>Large-Scale Datacenter Operations</strong>
 
-I am an IT Architect with 20+ years of experience in enterprise IT infrastructure, large-scale datacenter operations, platform engineering, virtualization, cloud technologies, and AI infrastructure.
+<strong>Linux / Unix Platforms</strong>
 
-My experience includes designing, deploying, scaling, and managing mission-critical infrastructure environments across geographically distributed datacenters supporting enterprise and high-availability workloads.
+<strong>VMware / ESX Virtualization</strong>
 
-My technical background spans:
+<strong>Kubernetes & Container Platforms</strong>
 
-Enterprise infrastructure architecture
+<strong>Docker & Containerization</strong>
 
-Large-scale datacenter operations
+<strong>Cloud & Hybrid Cloud Environments</strong>
 
-Linux / Unix platforms
+<strong>Infrastructure Automation & DevOps</strong>
 
-VMware / ESX virtualization
+<strong>CI/CD & Platform Engineering</strong>
 
-Kubernetes and container platforms
+<strong>Enterprise Storage</strong>
 
-Docker and containerization
+<strong>Infrastructure Scaling & Capacity Planning</strong>
 
-Cloud and hybrid cloud environments
+<strong>High Availability & Disaster Recovery</strong>
 
-Infrastructure automation and DevOps
+<strong>Performance Optimization & Reliability Engineering</strong>
 
-CI/CD and platform engineering
+<p> My current technical focus is increasingly centered around <strong>AI infrastructure</strong> and the platforms required to operate <strong>AI/ML workloads reliably and efficiently at scale</strong>. </p>
+<h2><u>AI Infrastructure</u></h2> <p> I am particularly interested in the <strong>infrastructure layer supporting modern AI workloads</strong>, including: </p>
 
-Enterprise storage
+<strong>AI Infrastructure Provisioning & Operations</strong>
 
-Infrastructure scaling and capacity planning
+<strong>GPU & Compute Infrastructure</strong>
 
-High availability and disaster recovery
+<strong>LLM Workload Infrastructure</strong>
 
-Performance optimization and reliability engineering
+<strong>Kubernetes-Based AI Platforms</strong>
 
-My current technical focus is increasingly centered around AI infrastructure and the platforms required to operate AI/ML workloads reliably and efficiently at scale.
+<strong>Containerized AI Workloads</strong>
 
-AI Infrastructure
+<strong>GPU Utilization & Resource Optimization</strong>
 
-I am particularly interested in the infrastructure layer supporting modern AI workloads, including:
+<strong>Workload Scheduling & Capacity Planning</strong>
 
-AI infrastructure provisioning and operations
+<strong>Infrastructure Scaling</strong>
 
-GPU and compute infrastructure
+<strong>AI Platform Operations</strong>
 
-LLM workload infrastructure
+<strong>LLMOps</strong>
 
-Kubernetes-based AI platforms
+<strong>AI Infrastructure Reliability</strong>
 
-Containerized AI workloads
+<strong>Cloud & Hybrid AI Infrastructure</strong>
 
-GPU utilization and resource optimization
+<strong>Infrastructure Cost & Performance Optimization</strong>
 
-Workload scheduling and capacity planning
+<p> A key area of interest is understanding the relationship between <strong>GPU utilization, memory, workload scheduling, batching, infrastructure capacity, performance, and operational cost</strong>. </p> <br> <blockquote> <strong>AI applications depend on infrastructure that can scale, perform, and operate reliably.</strong> </blockquote>
+<h2><u>Architecture & Infrastructure Expertise</u></h2> <h3><strong>Enterprise Infrastructure</strong></h3>
 
-Infrastructure scaling
+<strong>Enterprise Infrastructure Architecture</strong>
 
-AI platform operations
+<strong>Mission-Critical Datacenter Operations</strong>
 
-LLMOps
+<strong>Geographically Distributed Infrastructure</strong>
 
-AI infrastructure reliability
+<strong>High-Availability Environments</strong>
 
-Cloud and hybrid AI infrastructure
+<strong>Infrastructure Lifecycle Management</strong>
 
-Infrastructure cost and performance optimization
+<strong>Capacity Planning & Infrastructure Scaling</strong>
 
-A key area of interest is understanding the relationship between GPU utilization, memory, workload scheduling, batching, infrastructure capacity, performance, and operational cost.
+<h3><strong>Linux / Unix</strong></h3>
 
-AI applications depend on infrastructure that can scale, perform, and operate reliably.
+<strong>Linux System Administration</strong>
 
-Architecture & Infrastructure Expertise
-Enterprise Infrastructure
+<strong>Unix Platform Administration</strong>
 
-Enterprise infrastructure architecture
+<strong>Enterprise Linux Environments</strong>
 
-Mission-critical datacenter operations
+<strong>Solaris / Unix Systems</strong>
 
-Geographically distributed infrastructure
+<strong>System Performance & Reliability</strong>
 
-High-availability environments
+<h3><strong>Virtualization</strong></h3>
 
-Infrastructure lifecycle management
+<strong>VMware</strong>
 
-Capacity planning and infrastructure scaling
+<strong>ESX</strong>
 
-Linux / Unix
+<strong>Virtual Infrastructure</strong>
 
-Linux system administration
+<strong>Virtual Machine Platforms</strong>
 
-Unix platform administration
+<strong>Compute Consolidation</strong>
 
-Enterprise Linux environments
+<strong>Virtual Infrastructure Scaling</strong>
 
-Solaris / Unix systems
+<h3><strong>Kubernetes & Containers</strong></h3>
 
-System performance and reliability
+<strong>Kubernetes</strong>
 
-Virtualization
+<strong>Docker</strong>
 
-VMware
+<strong>Container Platforms</strong>
 
-ESX
+<strong>Containerized Workloads</strong>
 
-Virtual infrastructure
+<strong>Cloud-Native Infrastructure</strong>
 
-Virtual machine platforms
+<strong>Platform Engineering</strong>
 
-Compute consolidation
+<h3><strong>Cloud</strong></h3>
 
-Virtual infrastructure scaling
+<strong>Hybrid Cloud Infrastructure</strong>
 
-Kubernetes & Containers
+<strong>Cloud Architecture</strong>
 
-Kubernetes
+<strong>Cloud Operations</strong>
 
-Docker
+<strong>AWS</strong>
 
-Container platforms
+<strong>Microsoft Azure</strong>
 
-Containerized workloads
+<h3><strong>Automation & DevOps</strong></h3>
 
-Cloud-native infrastructure
+<strong>Infrastructure Automation</strong>
 
-Platform engineering
+<strong>DevOps Practices</strong>
 
-Cloud
+<strong>CI/CD</strong>
 
-Hybrid cloud infrastructure
+<strong>Platform Engineering</strong>
 
-Cloud architecture
+<strong>Operational Automation</strong>
 
-Cloud operations
+<strong>Infrastructure Standardization</strong>
 
-AWS
+<h3><strong>Storage & Reliability</strong></h3>
 
-Microsoft Azure
+<strong>Enterprise Storage</strong>
 
-Automation & DevOps
+<strong>Capacity Planning</strong>
 
-Infrastructure automation
+<strong>Performance Optimization</strong>
 
-DevOps practices
+<strong>High Availability</strong>
 
-CI/CD
+<strong>Disaster Recovery</strong>
 
-Platform engineering
+<strong>Reliability Engineering</strong>
 
-Operational automation
+<h2><u>Core Competencies</u></h2> <table> <thead> <tr> <th align="left">Area</th> <th align="left">Expertise</th> </tr> </thead> <tbody> <tr> <td><strong>Architecture</strong></td> <td>Enterprise Infrastructure, Platform Architecture, Infrastructure Architecture</td> </tr> <tr> <td><strong>AI Infrastructure</strong></td> <td>AI/ML Platforms, GPU Infrastructure, LLM Workloads, LLMOps</td> </tr> <tr> <td><strong>Cloud</strong></td> <td>AWS, Azure, Hybrid Cloud</td> </tr> <tr> <td><strong>Virtualization</strong></td> <td>VMware, ESX, Virtual Infrastructure</td> </tr> <tr> <td><strong>Containers</strong></td> <td>Kubernetes, Docker, Container Platforms</td> </tr> <tr> <td><strong>Operating Systems</strong></td> <td>Linux, Unix, Solaris</td> </tr> <tr> <td><strong>DevOps</strong></td> <td>Automation, CI/CD, Platform Engineering</td> </tr> <tr> <td><strong>Storage</strong></td> <td>Enterprise Storage, Capacity Planning, Performance</td> </tr> <tr> <td><strong>Scaling</strong></td> <td>Compute Scaling, Capacity Planning, Infrastructure Optimization</td> </tr> <tr> <td><strong>Reliability</strong></td> <td>High Availability, Disaster Recovery, Reliability Engineering</td> </tr> <tr> <td><strong>Datacenter</strong></td> <td>Enterprise Datacenters, Distributed Infrastructure, Mission-Critical Systems</td> </tr> </tbody> </table>
+<h2><u>Technology Landscape</u></h2> <h3><strong>Operating Systems</strong></h3> <p> <strong>Linux</strong> &nbsp;|&nbsp; <strong>Unix</strong> &nbsp;|&nbsp; <strong>Solaris</strong> </p> <h3><strong>Virtualization</strong></h3> <p> <strong>VMware</strong> &nbsp;|&nbsp; <strong>ESX</strong> &nbsp;|&nbsp; <strong>Virtual Infrastructure</strong> </p> <h3><strong>Containers & Orchestration</strong></h3> <p> <strong>Kubernetes</strong> &nbsp;|&nbsp; <strong>Docker</strong> &nbsp;|&nbsp; <strong>Container Platforms</strong> </p> <h3><strong>Cloud</strong></h3> <p> <strong>AWS</strong> &nbsp;|&nbsp; <strong>Microsoft Azure</strong> &nbsp;|&nbsp; <strong>Hybrid Cloud</strong> </p> <h3><strong>Infrastructure & Operations</strong></h3> <p> <strong>Enterprise Datacenters</strong> &nbsp;|&nbsp; <strong>Compute</strong> &nbsp;|&nbsp; <strong>Storage</strong> &nbsp;|&nbsp; <strong>Capacity Planning</strong> &nbsp;|&nbsp; <strong>High Availability</strong> &nbsp;|&nbsp; <strong>Disaster Recovery</strong> </p> <h3><strong>Automation & Engineering</strong></h3> <p> <strong>Infrastructure Automation</strong> &nbsp;|&nbsp; <strong>DevOps</strong> &nbsp;|&nbsp; <strong>CI/CD</strong> &nbsp;|&nbsp; <strong>Platform Engineering</strong> &nbsp;|&nbsp; <strong>Infrastructure Standardization</strong> </p>
+<h2><u>Infrastructure Architecture</u></h2> <p> My experience covers multiple layers of the infrastructure stack: </p> <table> <tr> <td align="center"><strong>AI / ML Workloads</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>AI Platforms & LLM Infrastructure</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>Kubernetes & Container Platforms</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>Cloud & Virtualization</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>Compute & Storage Infrastructure</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>Linux / Unix Platforms</strong></td> </tr> <tr> <td align="center">↓</td> </tr> <tr> <td align="center"><strong>Enterprise Datacenters</strong></td> </tr> </table> <p> This broad infrastructure background allows me to work across both <strong>platform-level architecture</strong> and the <strong>underlying infrastructure layer</strong>. </p>
+<h2><u>Certifications</u></h2> <p> Selected certifications from my professional background include: </p>
 
-Infrastructure standardization
+<strong>AWS Certified Cloud Practitioner</strong>
 
-Storage & Reliability
+<strong>Microsoft Certified: Azure Fundamentals</strong>
 
-Enterprise storage
+<strong>Red Hat Certified Engineer (RHCE)</strong>
 
-Capacity planning
+<strong>Red Hat Certified System Administrator (RHCSA)</strong>
 
-Performance optimization
+<strong>Red Hat Certified Specialist in Containers</strong>
 
-High availability
+<strong>ITIL Foundation</strong>
 
-Disaster recovery
+<strong>Sun Certified System Administrator — Solaris</strong>
 
-Reliability engineering
+<br> <blockquote> Certification validity can change over time. Current status should be verified with the respective certification provider. </blockquote>
+<h2><u>Education</u></h2> <h3><strong>IRT Polytechnic College</strong></h3> <p> <strong>First Class with Honours</strong><br> <strong>2002 – 2005</strong> </p> <p> Activities included participation in the <strong>Cricket Team</strong> and <strong>National Service Scheme (NSS)</strong>. </p>
+<h2><u>Areas of Interest</u></h2> <table> <tr> <td><strong>Artificial Intelligence Infrastructure</strong></td> <td><strong>Large Language Model Infrastructure</strong></td> </tr> <tr> <td><strong>GPU Computing</strong></td> <td><strong>GPU Resource Optimization</strong></td> </tr> <tr> <td><strong>Kubernetes for AI / ML</strong></td> <td><strong>Container Platforms</strong></td> </tr> <tr> <td><strong>Cloud Infrastructure</strong></td> <td><strong>Infrastructure Automation</strong></td> </tr> <tr> <td><strong>Large-Scale Infrastructure</strong></td> <td><strong>Site Reliability Engineering</strong></td> </tr> <tr> <td><strong>Platform Engineering</strong></td> <td><strong>Storage & Compute Architecture</strong></td> </tr> <tr> <td><strong>Enterprise Datacenter Architecture</strong></td> <td><strong>Infrastructure Performance</strong></td> </tr> </table>
+<h2><u>Engineering Philosophy</u></h2> <div align="center"> <h3><strong>Design for Scale</strong></h3> <h3><strong>Engineer for Reliability</strong></h3> <h3><strong>Automate for Consistency</strong></h3> </div> <p> I believe infrastructure should provide a <strong>reliable, scalable, and automated foundation</strong> that enables engineering teams and business workloads to operate efficiently. </p>
+<h2><u>What You'll Find Here</u></h2> <p> This GitHub profile is where I document and experiment with: </p>
 
-Core Competencies
-Area	Expertise
-Architecture	Enterprise Infrastructure, Platform Architecture, Infrastructure Architecture
-AI Infrastructure	AI/ML Platforms, GPU Infrastructure, LLM Workloads, LLMOps
-Cloud	AWS, Azure, Hybrid Cloud
-Virtualization	VMware, ESX, Virtual Infrastructure
-Containers	Kubernetes, Docker, Container Platforms
-Operating Systems	Linux, Unix, Solaris
-DevOps	Automation, CI/CD, Platform Engineering
-Storage	Enterprise Storage, Capacity Planning, Performance
-Scaling	Compute Scaling, Capacity Planning, Infrastructure Optimization
-Reliability	High Availability, Disaster Recovery, Reliability Engineering
-Datacenter	Enterprise Datacenters, Distributed Infrastructure, Mission-Critical Systems
-Technology Landscape
-Operating Systems
+<strong>Infrastructure Engineering</strong>
 
-Linux | Unix | Solaris
+<strong>AI Infrastructure Concepts</strong>
 
-Virtualization
+<strong>Kubernetes & Container Technologies</strong>
 
-VMware | ESX | Virtual Infrastructure
+<strong>Linux / Unix Engineering</strong>
 
-Containers & Orchestration
+<strong>Cloud Infrastructure</strong>
 
-Kubernetes | Docker | Container Platforms
+<strong>Infrastructure Automation</strong>
 
-Cloud
+<strong>DevOps Practices</strong>
 
-AWS | Microsoft Azure | Hybrid Cloud
+<strong>Virtualization</strong>
 
-Infrastructure & Operations
+<strong>Infrastructure Monitoring & Optimization</strong>
 
-Enterprise Datacenters | Compute | Storage | Capacity Planning | High Availability | Disaster Recovery
+<strong>Architecture Patterns</strong>
 
-Automation & Engineering
+<strong>Technology Prototypes & Labs</strong>
 
-Infrastructure Automation | DevOps | CI/CD | Platform Engineering | Infrastructure Standardization
+<h2><u>Connect</u></h2> <p> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/judobabu-harikrishnan-5855373b/"> Judobabu Harikrishnan </a> </p> <br> <div align="center">
 
-Infrastructure Architecture
+<strong>Enterprise Infrastructure</strong>
+  |  
+<strong>Cloud</strong>
+  |  
+<strong>AI Infrastructure</strong>
+  |  
+<strong>Datacenter</strong>
+  |  
+<strong>Platform Engineering</strong>
 
-My experience covers multiple layers of the infrastructure stack:
-
-AI / ML Workloads
-       |
-       v
-AI Platforms & LLM Infrastructure
-       |
-       v
-Kubernetes & Container Platforms
-       |
-       v
-Cloud & Virtualization
-       |
-       v
-Compute & Storage Infrastructure
-       |
-       v
-Linux / Unix Platforms
-       |
-       v
-Enterprise Datacenters
-
-
-This broad infrastructure background allows me to work across both platform-level architecture and the underlying infrastructure layer.
-
-Certifications
-
-Selected certifications from my professional background include:
-
-AWS Certified Cloud Practitioner
-
-Microsoft Certified: Azure Fundamentals
-
-Red Hat Certified Engineer (RHCE)
-
-Red Hat Certified System Administrator (RHCSA)
-
-Red Hat Certified Specialist in Containers
-
-ITIL Foundation
-
-Sun Certified System Administrator — Solaris
-
-Certification validity can change over time. Current status should be verified with the respective certification provider.
-
-Education
-IRT Polytechnic College
-
-First Class with Honours
-2002 – 2005
-
-Activities included participation in the Cricket Team and National Service Scheme (NSS).
-
-Areas of Interest
-
-Artificial Intelligence Infrastructure
-
-Large Language Model Infrastructure
-
-GPU Computing
-
-GPU Resource Optimization
-
-Kubernetes for AI / ML
-
-Container Platforms
-
-Cloud Infrastructure
-
-Infrastructure Automation
-
-Large-Scale Infrastructure
-
-Site Reliability Engineering
-
-Platform Engineering
-
-Storage and Compute Architecture
-
-Enterprise Datacenter Architecture
-
-Engineering Philosophy
-Design for Scale
-Engineer for Reliability
-Automate for Consistency
-
-I believe infrastructure should provide a reliable, scalable, and automated foundation that enables engineering teams and business workloads to operate efficiently.
-
-What You'll Find Here
-
-This GitHub profile is where I document and experiment with:
-
-Infrastructure engineering
-
-AI infrastructure concepts
-
-Kubernetes and container technologies
-
-Linux / Unix engineering
-
-Cloud infrastructure
-
-Infrastructure automation
-
-DevOps practices
-
-Virtualization
-
-Infrastructure monitoring and optimization
-
-Architecture patterns
-
-Technology prototypes and labs
-
-Connect
-
-LinkedIn:
-https://www.linkedin.com/in/judobabu-harikrishnan-5855373b/
-
-Enterprise Infrastructure | Cloud | AI | Datacenter | Platform Engineering
+</div>
